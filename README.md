@@ -8,6 +8,7 @@ Codetrack is a lightweight and straightforward version control system designed t
 ## Table of Contents
 - [Research Work](./research/)
 - [SDLC Documentation](./sdlc_docs/index.md)
+- [Architecture Design](./sdlc_docs/Architecture.md)
 - [Installation Guide](./User_Docs/Installation_Guide.md)
 - [User Manual](./User_Docs/User_Manual.md)
 - [Implementation Design and Code : ](./sdlc_docs/implementation_plan.md)
